@@ -1,2 +1,2 @@
 
-<?php require_once("../pages/index.html") ?>
+<?php require_once("./pages/index.html") ?>
